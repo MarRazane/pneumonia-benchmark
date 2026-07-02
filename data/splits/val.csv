@@ -1,0 +1,151 @@
+patientId,class,label,png_exists,png_path
+3999dbf4-b2a0-45b9-9ee6-5f62f5bd27c9,Lung Opacity,1,True,./Data\png_images\3999dbf4-b2a0-45b9-9ee6-5f62f5bd27c9.png
+7c9c96d6-47f9-4ab5-ad10-9be7371ac649,Lung Opacity,1,True,./Data\png_images\7c9c96d6-47f9-4ab5-ad10-9be7371ac649.png
+18a5c559-5563-47e2-b26a-8b20f7250ab0,Normal,0,True,./Data\png_images\18a5c559-5563-47e2-b26a-8b20f7250ab0.png
+7e5673a6-f9fd-40ee-87b3-bea2c84a0575,Normal,0,True,./Data\png_images\7e5673a6-f9fd-40ee-87b3-bea2c84a0575.png
+ab79277e-58bf-4eab-86d8-e8ee65b8f2c8,Normal,0,True,./Data\png_images\ab79277e-58bf-4eab-86d8-e8ee65b8f2c8.png
+b42eaeb8-b6d3-41d7-836c-56fd0922abf6,Lung Opacity,1,True,./Data\png_images\b42eaeb8-b6d3-41d7-836c-56fd0922abf6.png
+3e881f10-28aa-4626-a79a-50cc014b7a1a,Lung Opacity,1,True,./Data\png_images\3e881f10-28aa-4626-a79a-50cc014b7a1a.png
+5b1a17e6-6660-4928-847d-2e7a3f7637a2,Normal,0,True,./Data\png_images\5b1a17e6-6660-4928-847d-2e7a3f7637a2.png
+bd017f59-fd9d-4eb5-8805-58ffb96550df,Lung Opacity,1,True,./Data\png_images\bd017f59-fd9d-4eb5-8805-58ffb96550df.png
+82b08530-77d9-4d64-8af0-63e44c522a11,Normal,0,True,./Data\png_images\82b08530-77d9-4d64-8af0-63e44c522a11.png
+e0323a9a-78e9-4177-b718-891d99c575cc,Normal,0,True,./Data\png_images\e0323a9a-78e9-4177-b718-891d99c575cc.png
+32c39ff5-359a-4a7b-b41d-d7ad312766a3,Lung Opacity,1,True,./Data\png_images\32c39ff5-359a-4a7b-b41d-d7ad312766a3.png
+34d340bd-2928-41cb-8d2a-98ba84999a01,Lung Opacity,1,True,./Data\png_images\34d340bd-2928-41cb-8d2a-98ba84999a01.png
+9efa04ab-254a-4047-8f2f-91e5fe93062f,Lung Opacity,1,True,./Data\png_images\9efa04ab-254a-4047-8f2f-91e5fe93062f.png
+78886571-4987-4ea8-aabd-67e3ccb483bf,Lung Opacity,1,True,./Data\png_images\78886571-4987-4ea8-aabd-67e3ccb483bf.png
+27fa7496-e222-4016-8d1a-5a8dd4db52ed,Lung Opacity,1,True,./Data\png_images\27fa7496-e222-4016-8d1a-5a8dd4db52ed.png
+b83637fe-279e-4040-8a0d-b4ac8a860836,Normal,0,True,./Data\png_images\b83637fe-279e-4040-8a0d-b4ac8a860836.png
+42705f2c-8bdc-4a9d-8e13-864b0a89be21,Lung Opacity,1,True,./Data\png_images\42705f2c-8bdc-4a9d-8e13-864b0a89be21.png
+31102758-a5ba-44c9-b480-b744bcfcb861,Lung Opacity,1,True,./Data\png_images\31102758-a5ba-44c9-b480-b744bcfcb861.png
+069cfd47-0169-43e7-89a1-0be0fa24105b,Normal,0,True,./Data\png_images\069cfd47-0169-43e7-89a1-0be0fa24105b.png
+bc1c9e32-2815-477d-8dcd-6352dec8749d,Lung Opacity,1,True,./Data\png_images\bc1c9e32-2815-477d-8dcd-6352dec8749d.png
+8c148eb8-5753-4d84-b4b0-9c3dc5fa5cab,Normal,0,True,./Data\png_images\8c148eb8-5753-4d84-b4b0-9c3dc5fa5cab.png
+ab9faaf2-1f9c-49fd-9148-1ae56b695fae,Lung Opacity,1,True,./Data\png_images\ab9faaf2-1f9c-49fd-9148-1ae56b695fae.png
+ab327761-77b9-45f1-8c22-6dcb35bcf672,Normal,0,True,./Data\png_images\ab327761-77b9-45f1-8c22-6dcb35bcf672.png
+3530e106-65da-474c-b3d8-b024a0b3a81a,Normal,0,True,./Data\png_images\3530e106-65da-474c-b3d8-b024a0b3a81a.png
+27b2992d-54c7-4fcd-a060-b118bd8fe5ca,Normal,0,True,./Data\png_images\27b2992d-54c7-4fcd-a060-b118bd8fe5ca.png
+6073d6f5-d5d8-4b0c-911a-9b8374dd1348,Normal,0,True,./Data\png_images\6073d6f5-d5d8-4b0c-911a-9b8374dd1348.png
+56e4c4ac-6058-4f94-b2ea-9594ebdf38e3,Normal,0,True,./Data\png_images\56e4c4ac-6058-4f94-b2ea-9594ebdf38e3.png
+bc03198b-57f4-47b5-8808-114fd5cb9808,Lung Opacity,1,True,./Data\png_images\bc03198b-57f4-47b5-8808-114fd5cb9808.png
+97b01ec0-6e26-4e8d-a486-7a078d44b42d,Lung Opacity,1,True,./Data\png_images\97b01ec0-6e26-4e8d-a486-7a078d44b42d.png
+55d80d80-afcc-4b9e-ba27-fed14edd99b6,Lung Opacity,1,True,./Data\png_images\55d80d80-afcc-4b9e-ba27-fed14edd99b6.png
+8e8955c9-dc5b-4109-80e8-06a714111cb0,Lung Opacity,1,True,./Data\png_images\8e8955c9-dc5b-4109-80e8-06a714111cb0.png
+3922a7cc-ff8d-4479-893c-b82d86109414,Lung Opacity,1,True,./Data\png_images\3922a7cc-ff8d-4479-893c-b82d86109414.png
+8fac10c1-1b23-447b-9169-ea50cae270c2,Lung Opacity,1,True,./Data\png_images\8fac10c1-1b23-447b-9169-ea50cae270c2.png
+17faf806-5b26-418b-8d5d-a1ff45539ea7,Lung Opacity,1,True,./Data\png_images\17faf806-5b26-418b-8d5d-a1ff45539ea7.png
+5f791b1a-d6c4-422c-bac1-c8f3c9049e08,Normal,0,True,./Data\png_images\5f791b1a-d6c4-422c-bac1-c8f3c9049e08.png
+3479a9b0-f4e7-4408-a261-979e0fe974c7,Lung Opacity,1,True,./Data\png_images\3479a9b0-f4e7-4408-a261-979e0fe974c7.png
+b085cc58-d5b4-4fb7-9879-565c0e8c1198,Lung Opacity,1,True,./Data\png_images\b085cc58-d5b4-4fb7-9879-565c0e8c1198.png
+197c3079-d2b8-4227-8513-743e0e3d6431,Lung Opacity,1,True,./Data\png_images\197c3079-d2b8-4227-8513-743e0e3d6431.png
+ba07f107-5f57-4c63-8d82-e19b30e3e72d,Lung Opacity,1,True,./Data\png_images\ba07f107-5f57-4c63-8d82-e19b30e3e72d.png
+35ba6cd0-4faa-4fb3-a25f-49295d0fd33c,Normal,0,True,./Data\png_images\35ba6cd0-4faa-4fb3-a25f-49295d0fd33c.png
+a8df18f8-d3b3-4f8d-b2d8-27f3c5acd6a4,Normal,0,True,./Data\png_images\a8df18f8-d3b3-4f8d-b2d8-27f3c5acd6a4.png
+97861aed-bd6f-44dd-a983-556467cfa9c1,Normal,0,True,./Data\png_images\97861aed-bd6f-44dd-a983-556467cfa9c1.png
+ccee103f-fd2f-44b1-a14d-5f78c7073868,Lung Opacity,1,True,./Data\png_images\ccee103f-fd2f-44b1-a14d-5f78c7073868.png
+0b3b1768-5926-4084-bed0-ad9ae886d13a,Lung Opacity,1,True,./Data\png_images\0b3b1768-5926-4084-bed0-ad9ae886d13a.png
+e3539d15-18fd-4bee-b593-5c74b0cc9210,Normal,0,True,./Data\png_images\e3539d15-18fd-4bee-b593-5c74b0cc9210.png
+d7308547-72df-4a22-9387-c1a96c8f8e44,Normal,0,True,./Data\png_images\d7308547-72df-4a22-9387-c1a96c8f8e44.png
+a1636190-b05f-47c4-b14a-819f66d319e3,Normal,0,True,./Data\png_images\a1636190-b05f-47c4-b14a-819f66d319e3.png
+b8c6b8e3-df2b-478e-b80a-e0f92be65472,Normal,0,True,./Data\png_images\b8c6b8e3-df2b-478e-b80a-e0f92be65472.png
+a752bc48-905e-4b77-b2ab-257f09b1b8b0,Normal,0,True,./Data\png_images\a752bc48-905e-4b77-b2ab-257f09b1b8b0.png
+d9b8674c-c24b-4065-8aa9-fe6140c51984,Normal,0,True,./Data\png_images\d9b8674c-c24b-4065-8aa9-fe6140c51984.png
+b18e9b1c-e430-4200-8553-e585e0c49afc,Normal,0,True,./Data\png_images\b18e9b1c-e430-4200-8553-e585e0c49afc.png
+0b323a31-28e6-45b2-a07c-cc9b60571053,Lung Opacity,1,True,./Data\png_images\0b323a31-28e6-45b2-a07c-cc9b60571053.png
+7b3e4cf6-f37e-4e95-a6c8-3901352dbd15,Lung Opacity,1,True,./Data\png_images\7b3e4cf6-f37e-4e95-a6c8-3901352dbd15.png
+5e608de0-7c4b-4e08-8e20-e03c4e840f3b,Normal,0,True,./Data\png_images\5e608de0-7c4b-4e08-8e20-e03c4e840f3b.png
+6efd348c-705e-4e83-bbd1-97e336ee6b1e,Lung Opacity,1,True,./Data\png_images\6efd348c-705e-4e83-bbd1-97e336ee6b1e.png
+6f964e55-2f17-4361-b6f2-3af8e5d6e55a,Lung Opacity,1,True,./Data\png_images\6f964e55-2f17-4361-b6f2-3af8e5d6e55a.png
+48ea9943-604a-4f7f-bf84-22ef754c5e2b,Lung Opacity,1,True,./Data\png_images\48ea9943-604a-4f7f-bf84-22ef754c5e2b.png
+90ca0844-924a-4f74-926e-7561a808c0f4,Lung Opacity,1,True,./Data\png_images\90ca0844-924a-4f74-926e-7561a808c0f4.png
+a58b8dca-87bc-4461-be69-11acd06067d3,Lung Opacity,1,True,./Data\png_images\a58b8dca-87bc-4461-be69-11acd06067d3.png
+04707463-aae0-4989-ae73-f9162275444e,Normal,0,True,./Data\png_images\04707463-aae0-4989-ae73-f9162275444e.png
+77762e93-073c-405f-bca5-0f1fd339bf4c,Lung Opacity,1,True,./Data\png_images\77762e93-073c-405f-bca5-0f1fd339bf4c.png
+7d674c82-5501-4730-92c5-d241fd6911e7,Lung Opacity,1,True,./Data\png_images\7d674c82-5501-4730-92c5-d241fd6911e7.png
+47f2c736-72d5-4897-b0c7-7119f0fd88c7,Lung Opacity,1,True,./Data\png_images\47f2c736-72d5-4897-b0c7-7119f0fd88c7.png
+8f2e32fc-ba1f-4351-aa8f-611bd8978327,Normal,0,True,./Data\png_images\8f2e32fc-ba1f-4351-aa8f-611bd8978327.png
+21eca20b-515e-4f51-95e3-c5721e1fd6a1,Lung Opacity,1,True,./Data\png_images\21eca20b-515e-4f51-95e3-c5721e1fd6a1.png
+8f367106-9b21-4df4-a4b8-968a2f9a6d7a,Normal,0,True,./Data\png_images\8f367106-9b21-4df4-a4b8-968a2f9a6d7a.png
+9aa4dae2-8ea0-4be7-84a8-3c710288a19e,Normal,0,True,./Data\png_images\9aa4dae2-8ea0-4be7-84a8-3c710288a19e.png
+3d505bb2-544e-4e2d-8859-ef33bf31c49f,Lung Opacity,1,True,./Data\png_images\3d505bb2-544e-4e2d-8859-ef33bf31c49f.png
+abb7db92-8361-49a9-9d87-d7091beb6ef2,Normal,0,True,./Data\png_images\abb7db92-8361-49a9-9d87-d7091beb6ef2.png
+54f6c438-e545-4474-9c62-29c173fc5e7c,Normal,0,True,./Data\png_images\54f6c438-e545-4474-9c62-29c173fc5e7c.png
+91c00a0a-b2fc-446c-930a-0567100f54e7,Lung Opacity,1,True,./Data\png_images\91c00a0a-b2fc-446c-930a-0567100f54e7.png
+ce81a461-251f-4fdd-8222-a6eb7fbd6e1c,Normal,0,True,./Data\png_images\ce81a461-251f-4fdd-8222-a6eb7fbd6e1c.png
+5d5a3c1f-a816-4860-a617-8c8036149c15,Normal,0,True,./Data\png_images\5d5a3c1f-a816-4860-a617-8c8036149c15.png
+b9c412cd-9953-427b-97fc-e97cfbd1b465,Lung Opacity,1,True,./Data\png_images\b9c412cd-9953-427b-97fc-e97cfbd1b465.png
+8548232a-97d6-4980-90da-5e70e587c980,Normal,0,True,./Data\png_images\8548232a-97d6-4980-90da-5e70e587c980.png
+dcf84d28-ff38-4b87-950e-1aa518a598e9,Normal,0,True,./Data\png_images\dcf84d28-ff38-4b87-950e-1aa518a598e9.png
+06f35e64-4b8b-404e-933a-c98f0b5614cc,Lung Opacity,1,True,./Data\png_images\06f35e64-4b8b-404e-933a-c98f0b5614cc.png
+8f460d7d-164d-4f3e-b3eb-1c9f0c43b49e,Lung Opacity,1,True,./Data\png_images\8f460d7d-164d-4f3e-b3eb-1c9f0c43b49e.png
+74365fa5-5597-4353-9cf6-da8769145d55,Normal,0,True,./Data\png_images\74365fa5-5597-4353-9cf6-da8769145d55.png
+600846f8-21c3-4643-bb0c-d56ba57d6282,Normal,0,True,./Data\png_images\600846f8-21c3-4643-bb0c-d56ba57d6282.png
+29128fda-79ce-4a14-bbf9-9884422075d0,Lung Opacity,1,True,./Data\png_images\29128fda-79ce-4a14-bbf9-9884422075d0.png
+23f653b7-5388-4213-98c6-418aa9eb980d,Lung Opacity,1,True,./Data\png_images\23f653b7-5388-4213-98c6-418aa9eb980d.png
+3517db13-c047-42b3-849b-91b7ff5eba84,Normal,0,True,./Data\png_images\3517db13-c047-42b3-849b-91b7ff5eba84.png
+bb3dca8d-1c6d-4304-b876-b86adc7cea03,Normal,0,True,./Data\png_images\bb3dca8d-1c6d-4304-b876-b86adc7cea03.png
+0a2c130c-c536-4651-836d-95d07e9a89cf,Lung Opacity,1,True,./Data\png_images\0a2c130c-c536-4651-836d-95d07e9a89cf.png
+1cfe520b-cb8f-4aeb-8861-ac8ef6c79d8c,Normal,0,True,./Data\png_images\1cfe520b-cb8f-4aeb-8861-ac8ef6c79d8c.png
+32c3e235-1885-4aad-b4ad-2ef8583fbb78,Lung Opacity,1,True,./Data\png_images\32c3e235-1885-4aad-b4ad-2ef8583fbb78.png
+94399962-8f89-4dfa-a93f-7a3df88feca5,Lung Opacity,1,True,./Data\png_images\94399962-8f89-4dfa-a93f-7a3df88feca5.png
+76cf9b95-b598-4788-9a10-77061046ef98,Lung Opacity,1,True,./Data\png_images\76cf9b95-b598-4788-9a10-77061046ef98.png
+743d1905-767a-4dc2-9082-b2f11df0ab39,Normal,0,True,./Data\png_images\743d1905-767a-4dc2-9082-b2f11df0ab39.png
+c67d1fe6-94ba-4f3f-af3e-cebc75c44e57,Normal,0,True,./Data\png_images\c67d1fe6-94ba-4f3f-af3e-cebc75c44e57.png
+a6ca60aa-c6e1-4993-8745-0a3ef5f44e66,Normal,0,True,./Data\png_images\a6ca60aa-c6e1-4993-8745-0a3ef5f44e66.png
+7f7c58dd-8b4f-464d-bdcb-05c4cb8c5405,Normal,0,True,./Data\png_images\7f7c58dd-8b4f-464d-bdcb-05c4cb8c5405.png
+4e335c9d-1571-424c-bd07-aa1479021a01,Normal,0,True,./Data\png_images\4e335c9d-1571-424c-bd07-aa1479021a01.png
+e2f1fe33-c551-41c2-873a-56a23b238e72,Normal,0,True,./Data\png_images\e2f1fe33-c551-41c2-873a-56a23b238e72.png
+3e37afc9-f726-407c-84d0-df382e141721,Lung Opacity,1,True,./Data\png_images\3e37afc9-f726-407c-84d0-df382e141721.png
+776835b8-9137-4b15-abd4-3aebda8793d5,Lung Opacity,1,True,./Data\png_images\776835b8-9137-4b15-abd4-3aebda8793d5.png
+2fb8f201-843f-44fd-90cd-d1f257f996cf,Normal,0,True,./Data\png_images\2fb8f201-843f-44fd-90cd-d1f257f996cf.png
+265fdc5a-6b13-4ec0-a13c-81ac83bc3865,Normal,0,True,./Data\png_images\265fdc5a-6b13-4ec0-a13c-81ac83bc3865.png
+36f8833d-6bec-4307-af23-3908684ee79b,Lung Opacity,1,True,./Data\png_images\36f8833d-6bec-4307-af23-3908684ee79b.png
+7d9de861-2aa8-49d6-a2c5-47a5d7e1d06f,Lung Opacity,1,True,./Data\png_images\7d9de861-2aa8-49d6-a2c5-47a5d7e1d06f.png
+0bbb1ff7-dba6-4d5b-affe-b3ca0050d965,Lung Opacity,1,True,./Data\png_images\0bbb1ff7-dba6-4d5b-affe-b3ca0050d965.png
+80ef86fd-e36a-4c00-b25a-1101e5d9b2de,Lung Opacity,1,True,./Data\png_images\80ef86fd-e36a-4c00-b25a-1101e5d9b2de.png
+bb0e687b-e508-4420-8b69-86be037e79bb,Normal,0,True,./Data\png_images\bb0e687b-e508-4420-8b69-86be037e79bb.png
+49300dbc-f609-4c80-be6c-808222542479,Lung Opacity,1,True,./Data\png_images\49300dbc-f609-4c80-be6c-808222542479.png
+5c433812-c8db-47af-94ce-9c6ee552cf7e,Normal,0,True,./Data\png_images\5c433812-c8db-47af-94ce-9c6ee552cf7e.png
+d67566dd-9533-4b84-b4a9-edc7ec3efaad,Normal,0,True,./Data\png_images\d67566dd-9533-4b84-b4a9-edc7ec3efaad.png
+a4444af9-6137-4f0e-9b51-ca7236cf43b2,Lung Opacity,1,True,./Data\png_images\a4444af9-6137-4f0e-9b51-ca7236cf43b2.png
+bd8f8b0b-a89b-42f5-b92c-c0a152c6c1f2,Lung Opacity,1,True,./Data\png_images\bd8f8b0b-a89b-42f5-b92c-c0a152c6c1f2.png
+904070bc-c210-47ef-b886-abb6b0dd7ee3,Lung Opacity,1,True,./Data\png_images\904070bc-c210-47ef-b886-abb6b0dd7ee3.png
+d92346d5-2e75-4be3-8566-debe05c10705,Normal,0,True,./Data\png_images\d92346d5-2e75-4be3-8566-debe05c10705.png
+d5277276-f8f8-40e9-b8e1-791cf5d96ac0,Lung Opacity,1,True,./Data\png_images\d5277276-f8f8-40e9-b8e1-791cf5d96ac0.png
+838d5522-d44f-49a5-a4e2-7e84a75c2f75,Normal,0,True,./Data\png_images\838d5522-d44f-49a5-a4e2-7e84a75c2f75.png
+a7714d9a-c359-4edd-94a4-c6943c437021,Lung Opacity,1,True,./Data\png_images\a7714d9a-c359-4edd-94a4-c6943c437021.png
+e183cf86-9cc7-42ea-8a35-f9abb41edc72,Normal,0,True,./Data\png_images\e183cf86-9cc7-42ea-8a35-f9abb41edc72.png
+02e93c9a-c063-4bf2-9fa1-cb26692d58f8,Lung Opacity,1,True,./Data\png_images\02e93c9a-c063-4bf2-9fa1-cb26692d58f8.png
+73ff8055-3881-4c61-b700-396adf5083fc,Normal,0,True,./Data\png_images\73ff8055-3881-4c61-b700-396adf5083fc.png
+ca46e843-dd19-43f1-a133-4014e1cd9882,Normal,0,True,./Data\png_images\ca46e843-dd19-43f1-a133-4014e1cd9882.png
+070c921f-171c-420c-915b-e49e3f600c38,Lung Opacity,1,True,./Data\png_images\070c921f-171c-420c-915b-e49e3f600c38.png
+7863d975-f4da-486d-80ec-2bebc5f8b089,Normal,0,True,./Data\png_images\7863d975-f4da-486d-80ec-2bebc5f8b089.png
+a7f3e1fa-fc47-4b6d-a377-8a4ee4bda0f3,Lung Opacity,1,True,./Data\png_images\a7f3e1fa-fc47-4b6d-a377-8a4ee4bda0f3.png
+2f42fe81-bd2a-4b14-966b-589873d13663,Lung Opacity,1,True,./Data\png_images\2f42fe81-bd2a-4b14-966b-589873d13663.png
+5c66d723-37ec-47f4-a069-7cc4eabf64b5,Normal,0,True,./Data\png_images\5c66d723-37ec-47f4-a069-7cc4eabf64b5.png
+5b87ecdd-73ea-4dea-887c-85a52c6d2f9f,Lung Opacity,1,True,./Data\png_images\5b87ecdd-73ea-4dea-887c-85a52c6d2f9f.png
+b342002c-f204-47d2-b726-51e14e8dc028,Normal,0,True,./Data\png_images\b342002c-f204-47d2-b726-51e14e8dc028.png
+6af28755-0522-4b37-97d8-b931a31b876c,Normal,0,True,./Data\png_images\6af28755-0522-4b37-97d8-b931a31b876c.png
+5ba9f6a7-9f57-40f8-9168-1bb1841e65ff,Normal,0,True,./Data\png_images\5ba9f6a7-9f57-40f8-9168-1bb1841e65ff.png
+b97b78b8-bcb0-4694-aa55-d3ca9c4396df,Lung Opacity,1,True,./Data\png_images\b97b78b8-bcb0-4694-aa55-d3ca9c4396df.png
+8a035cce-8090-4ded-a2d2-a2bbacd88cae,Lung Opacity,1,True,./Data\png_images\8a035cce-8090-4ded-a2d2-a2bbacd88cae.png
+529bd50d-2ee9-41b2-a4d8-35c403bef10b,Normal,0,True,./Data\png_images\529bd50d-2ee9-41b2-a4d8-35c403bef10b.png
+577c1d51-14c5-450c-b936-33e259a1bca3,Normal,0,True,./Data\png_images\577c1d51-14c5-450c-b936-33e259a1bca3.png
+c575102e-4fc8-4152-84d4-0936b89217b3,Lung Opacity,1,True,./Data\png_images\c575102e-4fc8-4152-84d4-0936b89217b3.png
+6544c049-a898-4268-857f-7e6b9edaf878,Normal,0,True,./Data\png_images\6544c049-a898-4268-857f-7e6b9edaf878.png
+93a95c68-c487-4e09-89e2-6e3849e44886,Lung Opacity,1,True,./Data\png_images\93a95c68-c487-4e09-89e2-6e3849e44886.png
+b13ff5d7-7ba5-4cf4-9ff0-e87e87c3489c,Lung Opacity,1,True,./Data\png_images\b13ff5d7-7ba5-4cf4-9ff0-e87e87c3489c.png
+64116efc-5d76-4f05-8ff9-e31583c44b43,Normal,0,True,./Data\png_images\64116efc-5d76-4f05-8ff9-e31583c44b43.png
+552951a6-0684-4014-b3d5-620eebd9d42b,Normal,0,True,./Data\png_images\552951a6-0684-4014-b3d5-620eebd9d42b.png
+b270a010-9969-43bd-ae89-2a3c3f7b0d21,Normal,0,True,./Data\png_images\b270a010-9969-43bd-ae89-2a3c3f7b0d21.png
+0b494528-53d2-42f5-b9d9-8965b551db52,Normal,0,True,./Data\png_images\0b494528-53d2-42f5-b9d9-8965b551db52.png
+3a9ec087-6741-4338-b944-524a15b14733,Normal,0,True,./Data\png_images\3a9ec087-6741-4338-b944-524a15b14733.png
+b93bc9fc-3863-4ac7-a097-c8977df98d4b,Lung Opacity,1,True,./Data\png_images\b93bc9fc-3863-4ac7-a097-c8977df98d4b.png
+72f231ee-1380-4b0e-b887-cefe4b6179c3,Normal,0,True,./Data\png_images\72f231ee-1380-4b0e-b887-cefe4b6179c3.png
+91cc9818-4778-4659-978c-a5a472e3c416,Normal,0,True,./Data\png_images\91cc9818-4778-4659-978c-a5a472e3c416.png
+47a15caf-d139-4fa3-956d-6f8afa5ac376,Lung Opacity,1,True,./Data\png_images\47a15caf-d139-4fa3-956d-6f8afa5ac376.png
+c21157da-1f74-4966-ba4e-c144d8f5da2d,Lung Opacity,1,True,./Data\png_images\c21157da-1f74-4966-ba4e-c144d8f5da2d.png
+56a60ddd-66be-4e4c-8612-8916e2efedee,Normal,0,True,./Data\png_images\56a60ddd-66be-4e4c-8612-8916e2efedee.png
+93e19d77-ce48-41e4-b78f-b873525673dd,Lung Opacity,1,True,./Data\png_images\93e19d77-ce48-41e4-b78f-b873525673dd.png
+dede78fc-ba09-470f-b875-009a6edfac6f,Normal,0,True,./Data\png_images\dede78fc-ba09-470f-b875-009a6edfac6f.png
+175d97a4-f76d-4c1b-a5f3-882575b0a304,Normal,0,True,./Data\png_images\175d97a4-f76d-4c1b-a5f3-882575b0a304.png

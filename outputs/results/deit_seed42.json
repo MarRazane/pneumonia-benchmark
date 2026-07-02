@@ -1,0 +1,16 @@
+{
+  "model": "DeiT-Small",
+  "seed": 42,
+  "test_metrics": {
+    "accuracy": 0.9267,
+    "f1": 0.9281,
+    "precision": 0.9103,
+    "recall": 0.9467,
+    "auc": 0.9669,
+    "mcc": 0.854
+  },
+  "train_minutes": 27.74,
+  "inference_ms": 58.77,
+  "params_M": 21.7,
+  "best_val_auc": 0.9728
+}

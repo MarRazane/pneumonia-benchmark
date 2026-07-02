@@ -1,0 +1,43 @@
+# ── LARGE DATA FOLDERS (never push these) ────────────────────────────────────
+data/png_images/
+data/rad_dino_embeddings/
+data/stage_2_train_images/
+data/stage_2_test_images/
+
+# ── MODEL CHECKPOINTS (too large for GitHub) ──────────────────────────────────
+outputs/resnet50_seed42/best_model.pth
+outputs/resnet50_seed123/best_model.pth
+outputs/deit_seed42/best_model.pth
+outputs/deit_seed123/best_model.pth
+outputs/rad_dino/seed42/best_model.pth
+outputs/rad_dino/seed123/best_model.pth
+
+# ── PYTHON ENVIRONMENT ────────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# ── JUPYTER ───────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── WINDOWS ───────────────────────────────────────────────────────────────────
+Thumbs.db
+desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+
+# ── VS CODE ───────────────────────────────────────────────────────────────────
+.vscode/
+
+# ── MISC ──────────────────────────────────────────────────────────────────────
+*.log
+*.tmp
+.DS_Store
