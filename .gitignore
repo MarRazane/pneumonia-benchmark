@@ -11,6 +11,7 @@ outputs/deit_seed42/best_model.pth
 outputs/deit_seed123/best_model.pth
 outputs/rad_dino/seed42/best_model.pth
 outputs/rad_dino/seed123/best_model.pth
+outputs/
 
 # ── PYTHON ENVIRONMENT ────────────────────────────────────────────────────────
 .venv/
