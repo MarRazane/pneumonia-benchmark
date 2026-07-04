@@ -15,7 +15,7 @@ from pytorch_grad_cam.utils.image import show_cam_on_image
 from pytorch_grad_cam.utils.model_targets import ClassifierOutputTarget
 
 sys.path.insert(0, os.path.dirname(__file__))
-from dashboard import get_transforms
+from dataload import get_transforms
 
 #  CONFIG 
 CKPT_PATH  = "./outputs/resnet50_seed42/best_model.pth"
