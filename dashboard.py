@@ -43,7 +43,7 @@ def get_transforms(split: str, img_size: int = 224):
     
     if split == "train":
         return T.Compose([
-            T.Resize(img_size + 20),          # e.g. 244 → then crop to 224
+            T.Resize(img_size + 20),        
             T.RandomCrop(img_size),
             T.RandomHorizontalFlip(p=0.5),
             T.ToTensor(),

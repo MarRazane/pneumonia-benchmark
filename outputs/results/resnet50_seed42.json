@@ -9,8 +9,8 @@
     "auc": 0.9367,
     "mcc": 0.6949
   },
-  "train_minutes": 32.53,
-  "inference_ms": 77.64,
+  "train_minutes": 27.22,
+  "inference_ms": 70.08,
   "params_M": 24.0,
   "best_val_auc": 0.981
 }
