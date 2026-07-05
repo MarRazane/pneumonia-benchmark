@@ -78,12 +78,12 @@ def get_attention_rollout(model, img_pil):
         # Accumulate rollout
         rollout  = torch.matmul(attn_aug, rollout)
  
-    n_tokens  = rollout.shape[0]          # total tokens including CLS and distillation
-    n_patches = n_tokens - 2              # subtract CLS + distillation tokens
-    grid_size = int(n_patches ** 0.5)     # should be 14 for 196 patches
+    n_tokens = rollout.shape[0]        
+    n_patches = n_tokens - 2             
+    grid_size = int(n_patches ** 0.5)     
 
-    cls_attn  = rollout[0, 1:-1].numpy()  # skip CLS and distillation
-    cls_attn  = cls_attn[:grid_size * grid_size]   # trim any extra tokens
+    cls_attn  = rollout[0, 1:-1].numpy()  
+    cls_attn  = cls_attn[:grid_size * grid_size]   
     cls_attn  = cls_attn.reshape(grid_size, grid_size)
  
     cls_attn = (cls_attn - cls_attn.min()) / (cls_attn.max() - cls_attn.min() + 1e-8)
